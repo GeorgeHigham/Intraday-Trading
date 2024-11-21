@@ -31,5 +31,5 @@ This project has made a number of assumptions and limitations:
 - purchases and sales do not affect the market
 
 ## Sources
-Data dowloaded from library yfinance. Prices are adjusted close of '^GSPC' ticker between dates 2024-11-17 & 2024-11-21 saved to csv.
+Data dowloaded from library yfinance. Prices are adjusted close of '^GSPC' ticker between dates (non inclusive) 17-11-2024 & 21-11-2024 saved to csv.
 
