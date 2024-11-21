@@ -43,8 +43,9 @@ plt.savefig('visualisations/S&P 500 Stock Price', dpi=600)
 plt.clf()
 
 # Gradients Strategy buy / sell rationale graph
-plt.plot(gradients, label = f'Gradient (10 minutes)', color='royalblue')
-plt.axhline(y = 0.15, color='red', label='Threshold')
+plt.plot(gradients, label = f'Gradient (10 minutes)', color='green')
+plt.axhline(y = 0.15, color='blue', label='Buy Threshold')
+plt.axhline(y = -0.15, color='red', label='Sell Threshold')
 plt.ylabel('Gradient')
 plt.xlabel('Time (Minutes)')
 plt.title('Price Gradients Over Time')
