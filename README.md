@@ -18,7 +18,7 @@ This strategy is also a momentum strategy and involves using two moving window a
 <img src="visualisations/Moving Average Crossover Trading.png" alt="alt text" width="700" height="500">
 
 ### Mean Reversion Strategy
-This strategy is based on the logic that short-term fluctuations in prices will tend to revert back to the historical average price. For this stocks were bought once prices dropped under a threshold below this historical average and sold once they rose over the same level above that threshold. The threshold was based of historical deviations in prices.
+This strategy is based on the logic that short-term fluctuations in prices will tend to revert back to the historical average price. For this stocks were bought once prices dropped under a threshold below this historical average and sold once they rose over the same threshold above the historical price. The threshold was based of historical deviations in prices.
 
 <img src="visualisations/Mean Reversion Trading.png" alt="alt text" width="700" height="500">
 
