@@ -8,7 +8,7 @@ Returns from different trading strategies.
 
 ## Strategies' Explanations
 ### Gradient Trading Strategy
-This strategy is a momentum based strategy that will buy and sell stock based on the gradient of price change over time. Stocks are bought if the gradient is sufficiently high and sold if it is sufficiently low.
+This strategy is a momentum based strategy that will buy and sell stock based on the gradient of price change over a set period of time. Stocks are bought if the gradient is sufficiently high and sold if it is sufficiently low.
 
 <img src="visualisations/Gradient Trading Gradients.png" alt="alt text" width="700" height="500">
 
