@@ -22,11 +22,12 @@ This strategy is based on the logic that short-term fluctuations in prices will 
 
 <img src="visualisations/Mean Reversion Trading.png" alt="alt text" width="700" height="500">
 
-## Assumptions
-This project has made a number of assumptions:
+## Assumptions and Limitations
+This project has made a number of assumptions and limitations:
 
 - instantaneous buying and selling of stock
 - no trade costs
+- no short selling stock
 - purchases and sales do not affect the market
 
 ## Sources
