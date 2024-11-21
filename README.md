@@ -29,6 +29,7 @@ This project has made a number of assumptions and limitations:
 - no trade costs
 - no short selling stock
 - purchases and sales do not affect the market
+- maximum one share to be owned at any given time
 
 ## Sources
 Data dowloaded from library yfinance. Prices are adjusted close of '^GSPC' ticker between dates (non inclusive) 17-11-2024 & 21-11-2024 saved to csv.
