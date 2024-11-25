@@ -1,5 +1,5 @@
 # Intraday-Trading
-Utilising three trading strategies on intraday S&P 500 data over a month.
+Implementing three trading strategies on intraday S&P 500 data over a month.
 
 ## Results
 Returns from different trading strategies.
