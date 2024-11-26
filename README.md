@@ -32,5 +32,5 @@ This project has made a number of assumptions and limitations:
 - maximum one share to be owned at any given time
 
 ## Sources
-Data dowloaded from library yfinance. Prices are adjusted close of '^GSPC' ticker between dates (non inclusive) 28-10-2024 & 25-11-2024 saved to csv.
+Data dowloaded from library yfinance. Prices are adjusted close of '^GSPC' ticker between dates 28-10-2024 & 25-11-2024 saved to csv.
 
